@@ -1,0 +1,39 @@
+.background-video
+{
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0.3;
+}
+
+.my-navbar
+{
+direction: rtl;
+background-color: rgb(7, 18, 119);
+width: 90%;
+margin: auto;
+
+}
+
+.navbar-collapse {
+
+    flex-grow: 0;
+}   
+
+
+.nav-item
+{
+    color: rgb(117, 41, 83);
+}
+
+
+
+.nav-item
+{
+    list-style: none;
+}
+
+
